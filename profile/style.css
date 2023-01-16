@@ -43,14 +43,3 @@ a {
 button:hover, a:hover {
   opacity: 0.7;
 }
-
-h6
-{
-    position: absolute;
-    right: 5%;
-    bottom: 5%;
-    font-family: cursive;
-    color: blue;
-}
-
-/* end */
