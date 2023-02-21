@@ -150,3 +150,8 @@ h2
 	color: #8f8f8f;
 	text-decoration: beige;
 }
+.links a:hover, 
+.links a:nth-child(2)
+{
+	color: #45f3ff;
+}
