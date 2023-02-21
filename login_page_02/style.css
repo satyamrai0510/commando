@@ -133,3 +133,8 @@ h2
 	pointer-events: none;
 	z-index: 9;
 }
+.inputBox input:valid ~ i,
+.inputBox input:focus ~ i 
+{
+	height: 44px;
+}
