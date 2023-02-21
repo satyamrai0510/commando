@@ -112,3 +112,10 @@ h2
 	letter-spacing: 0.05em;
 	transition: 0.5s;
 }
+.inputBox input:valid ~ span,
+.inputBox input:focus ~ span 
+{
+	color: #45f3ff;
+	transform: translateX(0px) translateY(-34px);
+	font-size: 0.75em;
+}
