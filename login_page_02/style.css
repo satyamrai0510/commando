@@ -80,3 +80,9 @@ h2
 	text-align: center;
 	letter-spacing: 0.1em;
 }
+.inputBox 
+{
+	position: relative;
+	width: 300px;
+	margin-top: 35px;
+}
